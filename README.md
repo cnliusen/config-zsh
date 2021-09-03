@@ -17,5 +17,5 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 * Copy `.zshrc` into the right location. Default location is `~/.zshrc`
 
 ```bash
-curl 
+curl https://raw.githubusercontent.com/cnliusen/config-zsh/master/.zshrc > ~/.zshrc
 ```
